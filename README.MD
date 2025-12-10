@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" src="https://svg-banners.vercel.app/api?type=glitch&text1=AI%20Distillation%20Surrogate%20Project&text2=Machine%20Learning%20for%20Distillation&width=900&height=200" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:6a11cb,100:2575fc&height=180&section=header&text=AI%20Distillation%20Surrogate%20Project&fontSize=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Distillation-Column%20Modeling-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python">
 </p>
-
 ---
 
 # 📘 AI Distillation Surrogate Project
