@@ -1,0 +1,5 @@
+"Model,Average_R2,Rank"
+"XGBoost,0.965,1"
+"RandomForest,0.955,2"
+"ANN,0.945,3"
+"Polynomial_Ridge,0.845,4"

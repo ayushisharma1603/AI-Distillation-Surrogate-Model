@@ -1,0 +1,3 @@
+"Model,R2_xD,R2_QR,MAE_xD,MAE_QR"
+"XGBoost,0.94,0.92,0.009,120.4"
+"RandomForest,0.93,0.91,0.010,130.8"

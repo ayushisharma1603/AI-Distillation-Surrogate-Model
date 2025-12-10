@@ -1,0 +1,3 @@
+"Model,Slice,R2_xD,R2_QR,MAE_xD,MAE_QR"
+"XGBoost,HighPurity(xD>=0.95),0.96,0.95,0.005,90.2"
+"RandomForest,HighPurity(xD>=0.95),0.95,0.94,0.006,100.5"
