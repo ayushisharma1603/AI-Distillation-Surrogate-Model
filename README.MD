@@ -34,10 +34,3 @@ The surrogate provides **fast, accurate predictions** and enables **optimization
 
 ---
 
-## 📁 Project Structure
-data/ # Dataset
-models/ # Saved model files + preprocessors
-figures/ # Diagnostic plots
-reports/ # Performance metrics
-complete_distill_project.py # Full pipeline script
-
